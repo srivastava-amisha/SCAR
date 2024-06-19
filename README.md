@@ -23,7 +23,7 @@ Sample Code and Data
 The included sample code and data are based on the PRESENT Cipher design. The CDFG and features specific to its RTL design are used to demonstrate the functionality of the SCAR framework.
 
 Installation and Usage
-To set up the SCAR framework, run the provided sample code with the required files specified in the code blocks. The provided example is to analyze the PRESENT Cipher design.
+To set up the SCAR framework, run the provided sample code with the required files specified in the code blocks. The provided example is te test GNN model on the PRESENT Cipher design, given the model is trained on an implementation of AES, known as AES_Comp.
 
 Note
 This framework is part of ongoing research and is intended for academic and professional use in the field of cryptographic hardware analysis. The methodology and examples provided are based on specific datasets and may require adaptation for different encryption algorithms and RTL designs.
